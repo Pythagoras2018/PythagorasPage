@@ -915,7 +915,7 @@
                         </address>
                     </div>
                     <div class="col-xs-12 col-md-8">
-                        <form action="process.php" id="contact-form" method="post" class="contact-form">
+                        <form action="proceso.php" id="contact-form" method="post" class="contact-form">
                             <div class="form-double">
                                 <h5>Nombre (Obligatorios)</h5>
                                 <input type="text" id="form-name" name="name" placeholder="Escriba su primer nombre y su primer apellido" class="form-control" required="required">
