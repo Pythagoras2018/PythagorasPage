@@ -72,7 +72,7 @@
                     <li class="active"><a href="#home-page">Home</a></li>
                     <li><a href="#caption_slide">¿Quiénes Somos?</a></li>
                     <li><a href="#service-page">Cursos</a></li>
-                    <li><a href="#team-page">Instructores</a></li>
+                    <!--<li><a href="#team-page">Instructores</a></li>-->
                     <!--<li><a href="#faq-page">Preguntas Frecuentes</a></li>-->
                     <!--<li><a href="#client-page">Patrocinadores</a></li>-->
                     <li><a href="#testimonial-area">Testimonios</a></li>
