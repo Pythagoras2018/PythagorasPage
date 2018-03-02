@@ -918,13 +918,13 @@
                         <form action="process.php" id="contact-form" method="post" class="contact-form">
                             <div class="form-double">
                                 <h5>Nombre (Obligatorios)</h5>
-                                <input type="text" id="form-name" name="form-name" placeholder="Escriba su primer nombre y su primer apellido" class="form-control" required="required">
-                                <input type="email" id="form-email" name="form-email" class="form-control" placeholder="Escriba su correo electrónico" required="required">
+                                <input type="text" id="form-name" name="name" placeholder="Escriba su primer nombre y su primer apellido" class="form-control" required="required">
+                                <input type="email" id="form-email" name="email" class="form-control" placeholder="Escriba su correo electrónico" required="required">
                             </div>
                             <h5>Asunto del Mensaje</h5>
-                            <input type="text" id="form-subject" name="form-subject" class="form-control" placeholder="Agrege la razón de su mensaje de forma breve">
+                            <input type="text" id="form-subject" name="subject" class="form-control" placeholder="Agrege la razón de su mensaje de forma breve">
                             <h5>Mensaje</h5>
-                            <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Escriba su mensaje" required="required"></textarea>
+                            <textarea name="message" id="form-message" name="message" rows="5" class="form-control" placeholder="Escriba su mensaje" required="required"></textarea>
                             <button type="sibmit" class="button">Enviar</button>
                         </form>
                     </div>
