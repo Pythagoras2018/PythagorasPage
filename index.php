@@ -76,7 +76,7 @@
                     <!--<li><a href="#faq-page">Preguntas Frecuentes</a></li>-->
                     <!--<li><a href="#client-page">Patrocinadores</a></li>-->
                     <li><a href="#testimonial-area">Testimonios</a></li>
-                    <li><a href="#buzon">Buzón</a></li>
+                    <li><a href="#buzon_doc">Buzón</a></li>
                     <li><a href="#contact-page">Contacto</a></li>
                 </ul>
             </nav>
@@ -850,17 +850,21 @@
         </div>
     </section>-->
 
+
+
     <!-- Buzon -->
-    <br><div class="angle-bg" id="buzon">
+    <section id="buzon_doc" style="height: 12.5%;"></section>
+
+    <div class="angle-bg" style="padding-top:1.5%;" >
         <div class="container" style="width: 100%;">
             <div class="panel-group" id="accordion1" style="text-decoration: none;">
                 <div class="" style="background-color:#008FC5; color:#ffffff;">
                   <div class="panel-heading">
                     <h4 class="panel-title">
-                      <a data-toggle="collapse1" data-parent="#accordion1" href="#collapse1" data-target="buzon" style="font-size:25px; text-decoration: none;" ><center >Buzón</center></a>
+                      <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn" style="font-size:25px; text-decoration: none;" ><center>Buzón</center></a>
                     </h4>
                   </div>
-                  <div id="buzon" class="panel-collapse collapse">
+                  <div id="buzonn" class="panel-collapse collapse">
                     <center>
                         <section style="background-color:#F0FFFE; color:black;">
                             <h2>hola a todos</h2>
@@ -871,6 +875,7 @@
             </div> 
         </div>
     </div>
+
 
     <!-- Contacto -->
     <footer class="footer-area relative sky-bg" id="contact-page">
@@ -915,16 +920,16 @@
                         </address>
                     </div>
                     <div class="col-xs-12 col-md-8">
-                        <form action="proceso.php" id="contact-form" method="post" class="contact-form">
+                        <form action="process.php" id="contact-form" method="post" class="contact-form">
                             <div class="form-double">
                                 <h5>Nombre (Obligatorios)</h5>
-                                <input type="text" id="form-name" name="name" placeholder="Escriba su primer nombre y su primer apellido" class="form-control" required="required">
-                                <input type="email" id="form-email" name="email" class="form-control" placeholder="Escriba su correo electrónico" required="required">
+                                <input type="text" id="form-name" name="form-name" placeholder="Escriba su primer nombre y su primer apellido" class="form-control" required="required">
+                                <input type="email" id="form-email" name="form-email" class="form-control" placeholder="Escriba su correo electrónico" required="required">
                             </div>
                             <h5>Asunto del Mensaje</h5>
-                            <input type="text" id="form-subject" name="subject" class="form-control" placeholder="Agrege la razón de su mensaje de forma breve">
+                            <input type="text" id="form-subject" name="form-subject" class="form-control" placeholder="Agrege la razón de su mensaje de forma breve">
                             <h5>Mensaje</h5>
-                            <textarea name="message" id="form-message" name="message" rows="5" class="form-control" placeholder="Escriba su mensaje" required="required"></textarea>
+                            <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Escriba su mensaje" required="required"></textarea>
                             <button type="sibmit" class="button">Enviar</button>
                         </form>
                     </div>
