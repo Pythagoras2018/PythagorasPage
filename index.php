@@ -853,7 +853,7 @@
 
 
 
-    <!-- Buzon -->
+    <!-- Buzon 
     <section id="buzon_doc" style="height: 12.5%;"></section>
 
     <div class="angle-bg" style="padding-top:1.5%;" >
@@ -875,7 +875,7 @@
                 </div>
             </div> 
         </div>
-    </div>
+    </div>-->
 
 
     <!-- Contacto -->
