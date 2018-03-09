@@ -56,7 +56,7 @@
             
             <!-- Icono de menú para móviles -->
             <div class="">
-                <section style="width:25%;"><a href="index.html" class="navbar-brand logo">
+                <section style="width:25%;"><a href="index.php" class="navbar-brand logo">
                     <img src="logo2.png" style="padding-top: 25px;">
                 </a></section>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-menu">
