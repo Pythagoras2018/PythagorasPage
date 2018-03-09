@@ -77,7 +77,7 @@
                     <!--<li><a href="#faq-page">Preguntas Frecuentes</a></li>-->
                     <!--<li><a href="#client-page">Patrocinadores</a></li>-->
                     <li><a href="#testimonial-area">Testimonios</a></li>
-                    <li><a href="#buzon_doc">Buzón</a></li>
+                    <!--<li><a href="#buzon_doc">Buzón</a></li>-->
                     <li><a href="#contact-page">Contacto</a></li>
                 </ul>
             </nav>
