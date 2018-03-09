@@ -13,7 +13,7 @@
     <title>PYTHAGORAS</title>
     <!-- Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" href="logo1.png">
-    <link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
+    <link rel="shortcut icon" type="image/ico" href="logo1.ico" />
     <!-- Plugin-CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
