@@ -89,11 +89,94 @@
         text-align: left;
     }
     .mainmenu-area .logo {
-        margin-left: 15px;
+        margin-left: 5px;
+        margin-top: -9%;
     }
 }
 
+@media only screen and (max-width: 650px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -12%;
+    }
+}
 
+@media only screen and (max-width: 552px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -15%;
+    }
+}
+
+@media only screen and (max-width: 513px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -16%;
+    }
+
+@media only screen and (max-width: 467px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -19%;
+    }
+
+@media only screen and (max-width: 430px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -20%;
+    }
+
+@media only screen and (max-width: 400px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -23%;
+    }
+
+@media only screen and (max-width: 360px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -26%;
+    }
+
+@media only screen and (max-width: 326px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -30%;
+    }
+
+@media only screen and (max-width: 300px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -34%;
+    }
+
+@media only screen and (max-width: 375px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -38%;
+    }
+
+@media only screen and (max-width: 242px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -42%;
+    }
+
+@media only screen and (max-width: 222px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -48%;
+    }
+
+@media only screen and (max-width: 198px) {
+.mainmenu-area .logo {
+        margin-left: 5px;
+        margin-top: -59%;
+    }
+
+
+
+}
 /* Wide Mobile Layout: 480px. */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {}

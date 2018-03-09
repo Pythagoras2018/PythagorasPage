@@ -10,7 +10,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title>PYTHAGORAZ</title>
+    <title>PYTHAGORAS</title>
     <!-- Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
@@ -55,15 +55,16 @@
         <div class="container">
             
             <!-- Icono de menú para móviles -->
-            <div class="navbar-header">
+            <div class="">
+                <section style="width:25%;"><a href="index.html" class="navbar-brand logo">
+                    <img src="logo2.png" style="padding-top: 25px;">
+                </a></section>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-menu">
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="index.php" class="navbar-brand logo">
-                    <h2>logo</h2>
-                </a>
+                
             </div>
 
             <!-- Secciones del Menú -->
@@ -941,11 +942,11 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 pull-right">
                         <ul class="social-menu text-right x-left">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
+                            <li><a href="https://www.facebook.com/pythagorasv18/"><i class="ti-facebook"></i></a></li>
+                            <!--<li><a href="#"><i class="ti-twitter"></i></a></li>
                             <li><a href="#"><i class="ti-google"></i></a></li>
                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-github"></i></a></li>
+                            <li><a href="#"><i class="ti-github"></i></a></li>-->
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6">
