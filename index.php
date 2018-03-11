@@ -173,14 +173,10 @@
                                             <a href="#" class="button">Read more</a>
                                         </div>-->
                                     </div>
-                                    <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-1.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-2.jpg" alt="">
+                                    <div class="col-xs-6 col-md-1""></div>
+                                    <div class="col-xs-6 col-md-4">
+                                        <div class="caption-photo one" data-animation="animated fadeInRight" style="background:#ffffff; padding:10px; border-radius:30px;">
+                                            <img src="mision.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -198,14 +194,10 @@
                                             <a href="#" class="button">Read more</a>
                                         </div>-->
                                     </div>
-                                    <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-3.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-4.jpg" alt="">
+                                    <div class="col-xs-6 col-md-1""></div>
+                                    <div class="col-xs-6 col-md-4">
+                                        <div class="caption-photo one" data-animation="animated fadeInRight" style="background:#ffffff; padding:10px; border-radius:30px;">
+                                            <img src="vision.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -223,14 +215,10 @@
                                             <a href="#" class="button">Read more</a>
                                         </div>-->
                                     </div>
-                                    <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo one" data-animation="animated fadeInRight">
-                                            <img src="images/screen-7.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-6 col-md-3">
-                                        <div class="caption-photo two" data-animation="animated fadeInRight">
-                                            <img src="images/screen-2.jpg" alt="">
+                                    <div class="col-xs-6 col-md-1""></div>
+                                    <div class="col-xs-6 col-md-4">
+                                        <div class="caption-photo one" data-animation="animated fadeInRight" style="background:#ffffff; padding:10px; border-radius:30px;">
+                                            <img src="valores.png" alt="">
                                         </div>
                                     </div>
                                 </div>
