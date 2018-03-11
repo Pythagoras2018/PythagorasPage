@@ -196,9 +196,9 @@
                                     </div>
                                     <div class="col-xs-6 col-md-1""></div>
                                     <div class="col-xs-6 col-md-4">
-                                        <div class="caption-photo one" data-animation="animated fadeInRight" style="background:#ffffff; padding:10px; border-radius:30px;">
+                                        <center><div class="caption-photo one" data-animation="animated fadeInRight" style="background:#ffffff; padding:10px; border-radius:30px;">
                                             <img src="vis.png" alt="">
-                                        </div>
+                                        </div></center>
                                     </div>
                                 </div>
                             </div>
