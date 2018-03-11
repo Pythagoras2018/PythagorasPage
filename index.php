@@ -197,7 +197,7 @@
                                     <div class="col-xs-6 col-md-1""></div>
                                     <div class="col-xs-6 col-md-4">
                                         <div class="caption-photo one" data-animation="animated fadeInRight" style="background:#ffffff; padding:10px; border-radius:30px;">
-                                            <img src="vision.png" alt="">
+                                            <img src="vis.png" alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -218,7 +218,7 @@
                                     <div class="col-xs-6 col-md-1""></div>
                                     <div class="col-xs-6 col-md-4">
                                         <div class="caption-photo one" data-animation="animated fadeInRight" style="background:#ffffff; padding:10px; border-radius:30px;">
-                                            <img src="valores.png" alt="">
+                                            <img src="val.png" alt="">
                                         </div>
                                     </div>
                                 </div>
