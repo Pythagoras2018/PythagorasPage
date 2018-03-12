@@ -93,7 +93,7 @@
             <div class="row v-center">
                 <div class="col-xs-12 header-text"><center>
                     <h2>Bienvenidos</h2>
-                    <p>Aqui va una descripción o saludo de nuestra página</p>
+                    <p>Somos el conjunto e escuelas de diferentes especialidades como matemática, física, inglés, lecto-escritura y abierta a otras áreas que contribuyen gratuitamente a la superación autónoma educativa y al desarrollo personal de todo niño, niña, joven y adulto; independientemente de sus capacidades físicas y cognitivas siendo inclusiva en esencia, beneficiando a la población que desee ser parte de nuestro cuerpo estudiantil.</p>
                 </center></div>
             </div>
         </div>
@@ -209,7 +209,13 @@
                                             <h2>Valores</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute</p>
+                                            <ul>
+                                                <li>Responsabilidad</li>
+                                                <li>Perseverancia</li>
+                                                <li>Integridad</li>
+                                                <li>Inclusión</li>
+                                                <li>Compromiso Social</li>
+                                            </ul>
                                         </div>
                                         <!--<div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="#" class="button">Read more</a>
