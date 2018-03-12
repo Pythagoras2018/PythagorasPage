@@ -208,13 +208,13 @@
                                         <div class="caption-title" data-animation="animated fadeInUp">
                                             <h2>Valores</h2>
                                         </div>
-                                        <div class="caption-desc" data-animation="animated fadeInUp">
+                                        <br><div class="caption-desc" data-animation="animated fadeInUp">
                                             <ul>
-                                                <li>Responsabilidad</li>
-                                                <li>Perseverancia</li>
-                                                <li>Integridad</li>
-                                                <li>Inclusión</li>
-                                                <li>Compromiso Social</li>
+                                                <li><h4>Responsabilidad</h4></li>
+                                                <li><h4>Perseverancia</h4></li>
+                                                <li><h4>Integridad</h4></li>
+                                                <li><h4>Inclusión</h4></li>
+                                                <li><h4>Compromiso Social</h4></li>
                                             </ul>
                                         </div>
                                         <!--<div class="caption-button" data-animation="animated fadeInUp">
