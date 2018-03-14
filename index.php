@@ -419,6 +419,20 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-4">
+                                    <div class="box">
+                                        <div class="box-icon">
+                                            <img src="images/service-icon-2.png" alt="">
+                                        </div>
+                                        <h4>Japonés básico</h4>
+                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <div class="caption-button" data-animation="animated fadeInUp">
+                                            <a href="#" class="button">Inscribir</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                 </center>
