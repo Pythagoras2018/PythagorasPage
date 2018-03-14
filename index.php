@@ -431,10 +431,10 @@
             <div class="" style="background-color:#008FC5; color:#ffffff;">
               <div class="panel-heading">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" data-target="#collapse4" style="font-size:25px; text-decoration: none;"><center >Escuela de educación inicial y de la primera infancia</center></a>
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" data-target="#collapse6" style="font-size:25px; text-decoration: none;"><center >Escuela de educación inicial y de la primera infancia</center></a>
                 </h4>
               </div>
-              <div id="collapse4" class="panel-collapse collapse">
+              <div id="collapse6" class="panel-collapse collapse">
                 <center>
                     <section style="background-color:#F0FFFE; color:black;">
                         <div class="container">
