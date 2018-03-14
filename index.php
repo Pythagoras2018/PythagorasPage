@@ -302,6 +302,32 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-4">
+                                <div class="box">
+                                    <div class="box-icon">
+                                        <img src="images/service-icon-3.png" alt="">
+                                    </div>
+                                    <h4>Matematica para Secundaria</h4>
+                                    <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                    <div class="caption-button" data-animation="animated fadeInUp">
+                                        <a href="#" class="button">Inscribir</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-4">
+                                <div class="box">
+                                    <div class="box-icon">
+                                        <img src="images/service-icon-1.png" alt="">
+                                    </div>
+                                    <h4>Aritmetica</h4>
+                                    <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                    <div class="caption-button" data-animation="animated fadeInUp">
+                                        <a href="#" class="button">Inscribir</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         </div>
                         
                     </section>
@@ -380,10 +406,31 @@
                                         </div>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                    </section>
+                </center>
+              </div>
+            </div>
+          </div> 
+        </div>
+        <div class="container" style="width: 100%;">
+          <div class="panel-group" id="accordion" style="text-decoration: none;">
+            <div class="" style="background-color:#008FC5; color:#ffffff;">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" data-target="#collapse4" style="font-size:25px; text-decoration: none;"><center >Escuela de educación inicial y de la primera infancia</center></a>
+                </h4>
+              </div>
+              <div id="collapse4" class="panel-collapse collapse">
+                <center>
+                    <section style="background-color:#F0FFFE; color:black;">
+                        <div class="container">
+                            <div class="row">
                                 <div class="col-xs-12 col-sm-4">
                                     <div class="box">
                                         <div class="box-icon">
-                                            <img src="images/service-icon-1.png" alt="">
+                                            <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Lectoescritura</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
@@ -419,6 +466,18 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Talleres de Psicología</h4>
+                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <div class="caption-button" data-animation="animated fadeInUp">
+                                            <a href="#" class="button">Inscribir</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-sm-4">
+                                    <div class="box">
+                                        <div class="box-icon">
+                                            <img src="images/service-icon-2.png" alt="">
+                                        </div>
+                                        <h4>Habilidades sociales y problemas de aprendizaje</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="#" class="button">Inscribir</a>
