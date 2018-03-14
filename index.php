@@ -431,7 +431,7 @@
             <div class="" style="background-color:#008FC5; color:#ffffff;">
               <div class="panel-heading">
                 <h4 class="panel-title">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" data-target="#collapse6" style="font-size:25px; text-decoration: none;"><center >Escuela de educación inicial y de la primera infancia</center></a>
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" data-target="#collapse6" style="font-size:25px; text-decoration: none;"><center >Escuela de Educación Inicial y de la Primera Infancia</center></a>
                 </h4>
               </div>
               <div id="collapse6" class="panel-collapse collapse">
@@ -477,7 +477,7 @@
                                         <div class="box-icon">
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
-                                        <h4>Talleres de Psicología</h4>
+                                        <h4>Técnicas de Exposición Oral - La importancia del Lenguaje Corporal</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="#" class="button">Inscribir</a>
