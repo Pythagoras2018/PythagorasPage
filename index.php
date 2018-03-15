@@ -273,7 +273,7 @@
                                     <h4>Matemática para PAES</h4>
                                     <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="#" class="button">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4vNK4cyd498zQ8P6Rf5R-8zDSfjJqE-0HeweN8fA44DiVMA/viewform" class="button">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
@@ -285,7 +285,7 @@
                                     <h4>Química General</h4>
                                     <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="#" class="button">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL1pGRrLpQDzCThJgoKfHWUYo-0jcPlwXhc1NIBRifpX6K6A/viewform" class="button">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
@@ -297,7 +297,7 @@
                                     <h4>Matemática I</h4>
                                     <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="#" class="button">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvHG71PpWFlAvalZox6GgxWdCul-eUKBMO8N6XAhDXyGL3vQ/viewform" class="button">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
@@ -311,7 +311,7 @@
                                     <h4>Matematica para Secundaria</h4>
                                     <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="#" class="button">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVSmKaKF6eHYKE9G2gXBua7ns-17eWqJZnJChUSmuYC1HGSA/viewform" class="button">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
@@ -323,7 +323,7 @@
                                     <h4>Aritmetica</h4>
                                     <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="#" class="button">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI_8_S4_acWa1YGwEPzQrFCQTia3kKCLasDQ_LXo7nDIDTpw/viewform" class="button">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
@@ -357,7 +357,7 @@
                                         <h4>Solfeo Básico</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5P27mbVFMbzk2nVvcJUGjMA0YkHavwCbtyTeKxkUH4ygHkw/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -390,7 +390,7 @@
                                         <h4>Inglés básico</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSer1AMcx2Bf-NoygWBKZtAphSq1dCRsNFjFfFxO2dO60OBJQw/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -402,7 +402,7 @@
                                         <h4>Inglés intermedio</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeImzNqAbC5Dq8DpENn_yBs14xfsqmaXb4djOr5CwmuUATMzQ/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -414,7 +414,7 @@
                                         <h4>Portugués Básico</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTtN9cHow3LrwxgXcnkQqeMzKdlrp5l_kPDuwp9ylohbX1Ag/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -428,7 +428,7 @@
                                         <h4>Japonés básico</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScSkGHUlYbNwYTC4Qrlk40HphCA0-VfQMIX7VzfRXUhjunWww/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -461,7 +461,7 @@
                                         <h4>Lectoescritura</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScAxvP0v0J3OS31u5qnctFgTXwmltPZnOIsvC9MWFcu4RhVZA/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -494,7 +494,7 @@
                                         <h4>Técnicas de Exposición Oral - La importancia del Lenguaje Corporal</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScy8uSq-NAELJRDf_5pLe2f3giU45LNYJLuxOpqIfEyA10ejA/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -506,7 +506,7 @@
                                         <h4>Habilidades sociales y problemas de aprendizaje</h4>
                                         <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="#" class="button">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScazVaCMwR1Kr8edJWo4HZ6SOmKoRc_cr9LEXisy5FIcDkRmQ/viewform" class="button">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
