@@ -167,7 +167,7 @@
                                             <h2>Misión</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute</p>
+                                            <p>PYTHAGORAS es el conjunto de especialidades aliadas y capacitadas en diferentes arias (matemática, física, ingles, lectoescritura, entre otros), contribuyendo gratuitamente y brindando un servicio formativo de calidad, satisfaciendo y potenciando la superación personal profesional y social; independientemente de sus capacidades físicas e intelectuales, preparando a los involucrados el adaptarse a una sociedad totalmente cambiante.</p>
                                         </div>
                                         <!--<div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="#" class="button">Read more</a>
