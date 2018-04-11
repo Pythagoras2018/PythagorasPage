@@ -280,7 +280,64 @@
                                         <img src="images/service-icon-3.png" alt="">
                                     </div>
                                     <h4>Matemática para PAES</h4>
-                                    <p></p>
+                                    
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#paes" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="paes" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">El curso ofrece refuerzo ajustado a las necesidades de los
+                                                                participantes, tomando como referentes las competencias
+                                                                requeridas en la asignatura de matemática, y que a su vez
+                                                                serán evaluadas a través de la PAES.
+
+                                                                Durante el refuerzo se hace énfasis en las áreas que los
+                                                                participantes consideran necesario profundizar, ampliar o
+                                                                actualizar. La metodología tiene como actividad central
+                                                                (no la única) la discusión y resolución de preguntas relativas
+                                                                a los contenidos programáticos de la asignatura y como
+                                                                recurso principal el libro de items. Para ello, la actuación del
+                                                                facilitador y del participante se debe fundamentar en el
+                                                                diálogo y ha de generar un ambiente de aprendizaje que
+                                                                vuelva posible identificar los temas de interés, así como los
+                                                                procedimientos y recursos idóneos para hacerlo.
+                                                                </p>
+                                                                <br>
+                                                                <!--<h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Estar dispuesto a aprender</li>
+                                                                    <li>Tener creatividad</li>
+                                                                    <li>Tener iniciativa</li>
+                                                                    <li>Tener una constante practica</li>
+                                                                    <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
+                                                                    <li>Reflexiona sobre cada temática que se implemente</li>
+                                                                    <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Desde 18 años hasta 29 años de edad.</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>20 Cupos</p>
+                                                                <br>-->
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                     <div class="caption-button" data-animation="animated fadeInUp">
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4vNK4cyd498zQ8P6Rf5R-8zDSfjJqE-0HeweN8fA44DiVMA/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
