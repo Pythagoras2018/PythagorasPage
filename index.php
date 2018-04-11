@@ -304,7 +304,44 @@
                                         <img src="images/service-icon-3.png" alt="">
                                     </div>
                                     <h4>Matematica para Secundaria</h4>
-                                    <p></p>
+                                    
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="buzonn" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">En este curso solventaremos dudas sobre los temas que más dificultad tienen los estudiantes de cuarto, quinto y sexto grado sobre los temas de aritmética, estadística, geometría y medidas.</p>
+                                                                <br>
+                                                                <h2>Objetivo:</h2>
+                                                                <p align="left">Solventar vacíos del aprendizaje en la asignatura de matemática en alumnos de segundo ciclo.</p>
+                                                                <br>
+                                                                <h2>Restricciones</h2>
+                                                                <p align="left">el consenso de todas las restricciones</p>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p align="left">de 10 años a 13 años de edad</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p align="left">25 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                     <div class="caption-button" data-animation="animated fadeInUp">
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVSmKaKF6eHYKE9G2gXBua7ns-17eWqJZnJChUSmuYC1HGSA/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
@@ -319,7 +356,46 @@
                                         <img src="images/service-icon-1.png" alt="">
                                     </div>
                                     <h4>Aritmetica</h4>
-                                    <p></p>
+                                    
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="buzonn" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">La asignatura consiste en una introducción a los números naturales, haciendo una valoración de los axiomas de piano, sus propiedades y consideraciones dictadas de su estudio, posteriormente
+                                                                veremos la divisibilidad según criterio en enteros, trabajaremos con números racionales y
+                                                                potenciaciones en números reales y haremos énfasis en la solución de problemas.</p>
+                                                                <br>
+                                                                <h2>Objetivo:</h2>
+                                                                <p align="left">Conocer de manera formal las operaciones básicas, potenciación y radicación con los números N, Z y Q decimales.</p>
+                                                                <br>
+                                                                <h2>Restricciones</h2>
+                                                                <p align="left">el consenso de todas las restricciones</p>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p align="left">14 años en adelante</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p align="left">25 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+                                        
                                     <div class="caption-button" data-animation="animated fadeInUp">
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI_8_S4_acWa1YGwEPzQrFCQTia3kKCLasDQ_LXo7nDIDTpw/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
@@ -491,49 +567,49 @@
                                         
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
-                                        <div class="container" style="width: 100%;">
-                                            <div class="panel-group" id="accordion1" style="text-decoration: none;">
-                                                <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
-                                                  <div class="panel-heading">
-                                                    <h4 class="panel-title">
-                                                      <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
-                                                    </h4>
-                                                  </div>
-                                                  <div id="buzonn" class="panel-collapse collapse">
-                                                    <center>
-                                                        <section style="background-color:#F0FFFE; color:black;">
-                                                            <h2>Descripcion</h2>
-                                                            <p align="left">Los aspectos referenciales a dicha temática tienen como finalidad
-                                                               crear una serie de herramientas a nivel psicológica y mental, de tal manera que la persona
-                                                               que tenga que realizar una serie de exposiciones, conferencias u algún otro tipo de
-                                                               intervención colectiva, tenga una mayor facilidad de expresión, creación, apreciación y
-                                                               habilidades explicativas que le permitan dejar reflejado lo que realmente se desea dejar
-                                                               plasmado por medio de la profundización, implementación y análisis del lenguaje corporal.</p>
-                                                            <br>
-                                                            <h2>Condiciones</h2>
-                                                            <ul align="left">
-                                                                <li>Estar dispuesto a aprender</li>
-                                                                <li>Tener creatividad</li>
-                                                                <li>Tener iniciativa</li>
-                                                                <li>Tener una constante practica</li>
-                                                                <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
-                                                                <li>Reflexiona sobre cada temática que se implemente</li>
-                                                                <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
-                                                            </ul>
-                                                            <br>
-                                                            <h2>Rango de Edad</h2>
-                                                            <p align="left">MINIMO DE 18 AÑOS Y UN MAXIMO DE 29 AÑOS</p>
-                                                            <br>
-                                                            <h2>Limite de cupos</h2>
-                                                            <p align="left">20 Cupos</p>
-                                                            <br>
-                                                        </section>
-                                                    </center>
-                                                  </div>
-                                                </div>
-                                            </div> 
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="buzonn" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">Los aspectos referenciales a dicha temática tienen como finalidad
+                                                                   crear una serie de herramientas a nivel psicológica y mental, de tal manera que la persona
+                                                                   que tenga que realizar una serie de exposiciones, conferencias u algún otro tipo de
+                                                                   intervención colectiva, tenga una mayor facilidad de expresión, creación, apreciación y
+                                                                   habilidades explicativas que le permitan dejar reflejado lo que realmente se desea dejar
+                                                                   plasmado por medio de la profundización, implementación y análisis del lenguaje corporal.</p>
+                                                                <br>
+                                                                <h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Estar dispuesto a aprender</li>
+                                                                    <li>Tener creatividad</li>
+                                                                    <li>Tener iniciativa</li>
+                                                                    <li>Tener una constante practica</li>
+                                                                    <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
+                                                                    <li>Reflexiona sobre cada temática que se implemente</li>
+                                                                    <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p align="left">MINIMO DE 18 AÑOS Y UN MAXIMO DE 29 AÑOS</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p align="left">20 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
                                         </div>
-                                    </div>
 
 
                                         <div class="caption-button" data-animation="animated fadeInUp">
