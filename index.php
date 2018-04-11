@@ -325,13 +325,13 @@
                                                                 <p align="left">Solventar vacíos del aprendizaje en la asignatura de matemática en alumnos de segundo ciclo.</p>
                                                                 <br>
                                                                 <h2>Restricciones</h2>
-                                                                <p align="left">el consenso de todas las restricciones</p>
+                                                                <p>el consenso de todas las restricciones</p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
-                                                                <p align="left">de 10 años a 13 años de edad</p>
+                                                                <p>de 10 años a 13 años de edad</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
-                                                                <p align="left">25 Cupos</p>
+                                                                <p>25 Cupos</p>
                                                                 <br>
                                                             </section>
                                                         </center>
@@ -379,13 +379,13 @@
                                                                 <p align="left">Conocer de manera formal las operaciones básicas, potenciación y radicación con los números N, Z y Q decimales.</p>
                                                                 <br>
                                                                 <h2>Restricciones</h2>
-                                                                <p align="left">el consenso de todas las restricciones</p>
+                                                                <p>el consenso de todas las restricciones</p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
-                                                                <p align="left">14 años en adelante</p>
+                                                                <p>14 años en adelante</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
-                                                                <p align="left">25 Cupos</p>
+                                                                <p>25 Cupos</p>
                                                                 <br>
                                                             </section>
                                                         </center>
@@ -572,10 +572,10 @@
                                                     <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
                                                       <div class="panel-heading">
                                                         <h4 class="panel-title">
-                                                          <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                          <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn1" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
                                                         </h4>
                                                       </div>
-                                                      <div id="buzonn" class="panel-collapse collapse">
+                                                      <div id="buzonn1" class="panel-collapse collapse">
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
