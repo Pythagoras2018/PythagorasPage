@@ -598,10 +598,10 @@
                                                                 </ul>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
-                                                                <p align="left">MINIMO DE 18 AÑOS Y UN MAXIMO DE 29 AÑOS</p>
+                                                                <p>MINIMO DE 18 AÑOS Y UN MAXIMO DE 29 AÑOS</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
-                                                                <p align="left">20 Cupos</p>
+                                                                <p>20 Cupos</p>
                                                                 <br>
                                                             </section>
                                                         </center>
