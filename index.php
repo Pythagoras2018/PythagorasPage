@@ -598,7 +598,7 @@
                                                                 </ul>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
-                                                                <p>MINIMO DE 18 AÑOS Y UN MAXIMO DE 29 AÑOS</p>
+                                                                <p>Desde 18 años hasta 29 años de edad.</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
                                                                 <p>20 Cupos</p>
@@ -970,12 +970,12 @@
         <div class="row">
             <center><h3><b>PATROCINADORES</b></h3></center>
         </div>
-        <div class="container">
+        <div class="container" style="background: black;">
             <br><br><br><div class="row text-center">
                 <div class="col-xs-12">
                     <div class="clients">
                         <div class="item">
-                            <img src="images/patrocinadores/rotarac.png" alt="">
+                            <img src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique" style="width:40%;">
                         </div>
                     </div>
                 </div>
