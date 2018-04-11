@@ -488,7 +488,54 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Técnicas de Exposición Oral - La importancia del Lenguaje Corporal</h4>
-                                        <p></p>
+                                        
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                        <div class="container" style="width: 100%;">
+                                            <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                  <div class="panel-heading">
+                                                    <h4 class="panel-title">
+                                                      <a data-toggle="collapse" data-parent="#accordion1" href="#collapse1" data-target="#buzonn" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                    </h4>
+                                                  </div>
+                                                  <div id="buzonn" class="panel-collapse collapse">
+                                                    <center>
+                                                        <section style="background-color:#F0FFFE; color:black;">
+                                                            <h2>Descripcion</h2>
+                                                            <p align="left">Los aspectos referenciales a dicha temática tienen como finalidad
+                                                               crear una serie de herramientas a nivel psicológica y mental, de tal manera que la persona
+                                                               que tenga que realizar una serie de exposiciones, conferencias u algún otro tipo de
+                                                               intervención colectiva, tenga una mayor facilidad de expresión, creación, apreciación y
+                                                               habilidades explicativas que le permitan dejar reflejado lo que realmente se desea dejar
+                                                               plasmado por medio de la profundización, implementación y análisis del lenguaje corporal.</p>
+                                                            <br>
+                                                            <h2>Condiciones</h2>
+                                                            <ul align="left">
+                                                                <li>Estar dispuesto a aprender</li>
+                                                                <li>Tener creatividad</li>
+                                                                <li>Tener iniciativa</li>
+                                                                <li>Tener una constante practica</li>
+                                                                <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
+                                                                <li>Reflexiona sobre cada temática que se implemente</li>
+                                                                <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                            </ul>
+                                                            <br>
+                                                            <h2>Rango de Edad</h2>
+                                                            <p align="left">MINIMO DE 18 AÑOS Y UN MAXIMO DE 29 AÑOS</p>
+                                                            <br>
+                                                            <h2>Limite de cupos</h2>
+                                                            <p align="left">20 Cupos</p>
+                                                            <br>
+                                                        </section>
+                                                    </center>
+                                                  </div>
+                                                </div>
+                                            </div> 
+                                        </div>
+                                    </div>
+
+
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="https://docs.google.com/forms/d/e/1FAIpQLScy8uSq-NAELJRDf_5pLe2f3giU45LNYJLuxOpqIfEyA10ejA/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
