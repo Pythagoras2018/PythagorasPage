@@ -57,7 +57,7 @@
             <!-- Icono de menú para móviles -->
             <div class="">
                 <section style="width:25%;"><a href="index.php" class="navbar-brand logo">
-                    <img src="logo2.png" style="padding-top: 25px;">
+                    <img src="logopytha.png" style="padding-top: 25px;">
                 </a></section>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#primary-menu">
                     <span class="icon-bar"></span>
@@ -75,7 +75,7 @@
                     <li><a href="#service-page">Cursos</a></li>
                     <!--<li><a href="#team-page">Instructores</a></li>-->
                     <!--<li><a href="#faq-page">Preguntas Frecuentes</a></li>-->
-                    <!--<li><a href="#client-page">Patrocinadores</a></li>-->
+                    <li><a href="#client-page">Patrocinadores</a></li>
                     <li><a href="#testimonial-area">Testimonios</a></li>
                     <!--<li><a href="#buzon_doc">Buzón</a></li>-->
                     <li><a href="#contact-page">Contacto</a></li>
@@ -167,7 +167,11 @@
                                             <h2>Misión</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>PYTHAGORAS es el conjunto de especialidades aliadas y capacitadas en diferentes arias (matemática, física, ingles, lectoescritura, entre otros), contribuyendo gratuitamente y brindando un servicio formativo de calidad, satisfaciendo y potenciando la superación personal profesional y social; independientemente de sus capacidades físicas e intelectuales, preparando a los involucrados el adaptarse a una sociedad totalmente cambiante.</p>
+                                            <p>Somos una organización sin fines de lucro que promueve la
+                                               formación educativa de distintas áreas de conocimiento
+                                               contribuyendo con el desarrollo de capacidades y la
+                                               superación autónoma educativa de nuestra comunidad
+                                               estudiantil de la ciudad de San Miguel.</p>
                                         </div>
                                         <!--<div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="#" class="button">Read more</a>
@@ -188,7 +192,12 @@
                                             <h2>Visión</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute</p>
+                                            <p>Ser una organización reconocida a nivel municipal por su
+                                               perseverancia en el trabajo social y comunitario,
+                                               aspirando ser una referencia de concientización educativa
+                                               para todas las personas, logrando un impacto positivo en
+                                               la educación a nivel municipal y posteriormente
+                                               departamental.</p>
                                         </div>
                                         <!--<div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="#" class="button">Read more</a>
@@ -206,7 +215,7 @@
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
                                         <div class="caption-title" data-animation="animated fadeInUp">
-                                            <h2>Valores</h2>
+                                            <h2>Ideario</h2>
                                         </div>
                                         <br><div class="caption-desc" data-animation="animated fadeInUp">
                                             <ul>
@@ -239,7 +248,7 @@
                                 <strong>Visión</strong>
                             </li>
                             <li data-target="#caption_slide" data-slide-to="2">
-                                <strong>Valores</strong>
+                                <strong>Ideario</strong>
                             </li>
                             
                         </ol>
@@ -271,9 +280,9 @@
                                         <img src="images/service-icon-3.png" alt="">
                                     </div>
                                     <h4>Matemática para PAES</h4>
-                                    <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                    <p></p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4vNK4cyd498zQ8P6Rf5R-8zDSfjJqE-0HeweN8fA44DiVMA/viewform" class="button" target="_blank">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSc4vNK4cyd498zQ8P6Rf5R-8zDSfjJqE-0HeweN8fA44DiVMA/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
@@ -283,47 +292,36 @@
                                         <img src="images/service-icon-1.png" alt="">
                                     </div>
                                     <h4>Química General</h4>
-                                    <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                    <p></p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL1pGRrLpQDzCThJgoKfHWUYo-0jcPlwXhc1NIBRifpX6K6A/viewform" class="button" target="_blank">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL1pGRrLpQDzCThJgoKfHWUYo-0jcPlwXhc1NIBRifpX6K6A/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-sm-4">
-                                <div class="box">
-                                    <div class="box-icon">
-                                        <img src="images/service-icon-1.png" alt="">
-                                    </div>
-                                    <h4>Matemática I</h4>
-                                    <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
-                                    <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvHG71PpWFlAvalZox6GgxWdCul-eUKBMO8N6XAhDXyGL3vQ/viewform" class="button" target="_blank">Inscribir</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
                             <div class="col-xs-12 col-sm-4">
                                 <div class="box">
                                     <div class="box-icon">
                                         <img src="images/service-icon-3.png" alt="">
                                     </div>
                                     <h4>Matematica para Secundaria</h4>
-                                    <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                    <p></p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVSmKaKF6eHYKE9G2gXBua7ns-17eWqJZnJChUSmuYC1HGSA/viewform" class="button" target="_blank">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVSmKaKF6eHYKE9G2gXBua7ns-17eWqJZnJChUSmuYC1HGSA/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                        <div class="row">
+                            
                             <div class="col-xs-12 col-sm-4">
                                 <div class="box">
                                     <div class="box-icon">
                                         <img src="images/service-icon-1.png" alt="">
                                     </div>
                                     <h4>Aritmetica</h4>
-                                    <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                    <p></p>
                                     <div class="caption-button" data-animation="animated fadeInUp">
-                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI_8_S4_acWa1YGwEPzQrFCQTia3kKCLasDQ_LXo7nDIDTpw/viewform" class="button" target="_blank">Inscribir</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeI_8_S4_acWa1YGwEPzQrFCQTia3kKCLasDQ_LXo7nDIDTpw/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
                                 </div>
                             </div>
@@ -355,9 +353,21 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Solfeo Básico</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <p></p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5P27mbVFMbzk2nVvcJUGjMA0YkHavwCbtyTeKxkUH4ygHkw/viewform" class="button" target="_blank">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5P27mbVFMbzk2nVvcJUGjMA0YkHavwCbtyTeKxkUH4ygHkw/closedform" class="button" target="_blank">Inscribir</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-sm-4">
+                                    <div class="box">
+                                        <div class="box-icon">
+                                            <img src="images/service-icon-2.png" alt="">
+                                        </div>
+                                        <h4>Dibujo Anatómico</h4>
+                                        <p></p>
+                                        <div class="caption-button" data-animation="animated fadeInUp">
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMZYI35HRimfchxiBQnAGhH0y79iFtgbjrEhxYwJ0tKu579g/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -388,9 +398,9 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Inglés básico</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <p></p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSer1AMcx2Bf-NoygWBKZtAphSq1dCRsNFjFfFxO2dO60OBJQw/viewform" class="button" target="_blank">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSer1AMcx2Bf-NoygWBKZtAphSq1dCRsNFjFfFxO2dO60OBJQw/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -400,35 +410,21 @@
                                             <img src="images/service-icon-3.png" alt="">
                                         </div>
                                         <h4>Inglés intermedio</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <p></p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeImzNqAbC5Dq8DpENn_yBs14xfsqmaXb4djOr5CwmuUATMzQ/viewform" class="button" target="_blank">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeImzNqAbC5Dq8DpENn_yBs14xfsqmaXb4djOr5CwmuUATMzQ/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-xs-12 col-sm-4">
-                                    <div class="box">
-                                        <div class="box-icon">
-                                            <img src="images/service-icon-3.png" alt="">
-                                        </div>
-                                        <h4>Portugués Básico</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
-                                        <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTtN9cHow3LrwxgXcnkQqeMzKdlrp5l_kPDuwp9ylohbX1Ag/viewform" class="button" target="_blank">Inscribir</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
                                 <div class="col-xs-12 col-sm-4">
                                     <div class="box">
                                         <div class="box-icon">
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Japonés básico</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <p></p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScSkGHUlYbNwYTC4Qrlk40HphCA0-VfQMIX7VzfRXUhjunWww/viewform" class="button" target="_blank">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScSkGHUlYbNwYTC4Qrlk40HphCA0-VfQMIX7VzfRXUhjunWww/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -459,9 +455,9 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Lectoescritura</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <p></p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScAxvP0v0J3OS31u5qnctFgTXwmltPZnOIsvC9MWFcu4RhVZA/viewform" class="button" target="_blank">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScAxvP0v0J3OS31u5qnctFgTXwmltPZnOIsvC9MWFcu4RhVZA/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -492,21 +488,9 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Técnicas de Exposición Oral - La importancia del Lenguaje Corporal</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                                        <p></p>
                                         <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScy8uSq-NAELJRDf_5pLe2f3giU45LNYJLuxOpqIfEyA10ejA/viewform" class="button" target="_blank">Inscribir</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xs-12 col-sm-4">
-                                    <div class="box">
-                                        <div class="box-icon">
-                                            <img src="images/service-icon-2.png" alt="">
-                                        </div>
-                                        <h4>Habilidades sociales y problemas de aprendizaje</h4>
-                                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
-                                        <div class="caption-button" data-animation="animated fadeInUp">
-                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScazVaCMwR1Kr8edJWo4HZ6SOmKoRc_cr9LEXisy5FIcDkRmQ/viewform" class="button" target="_blank">Inscribir</a>
+                                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScy8uSq-NAELJRDf_5pLe2f3giU45LNYJLuxOpqIfEyA10ejA/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
                                     </div>
                                 </div>
@@ -859,7 +843,7 @@
 
 
     <!-- Socios o Patrocinadores -->
-    <!--<section class="section-padding overlay client-area overlay" id="client-page">
+    <section class="section-padding overlay client-area overlay" id="client-page">
         <div class="row">
             <center><h3><b>PATROCINADORES</b></h3></center>
         </div>
@@ -868,13 +852,13 @@
                 <div class="col-xs-12">
                     <div class="clients">
                         <div class="item">
-                            <img src="images/" alt="">
+                            <img src="images/patrocinadores/rotarac.png" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>-->
+    </section>
 
 
     <!-- Actividades o eventos -->
