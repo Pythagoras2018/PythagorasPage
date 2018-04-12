@@ -660,10 +660,10 @@
                                                     <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
                                                       <div class="panel-heading">
                                                         <h4 class="panel-title">
-                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#expre1" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#ingint" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
                                                         </h4>
                                                       </div>
-                                                      <div id="expre1" class="panel-collapse collapse">
+                                                      <div id="ingint" class="panel-collapse collapse">
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
@@ -717,10 +717,10 @@
                                                     <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
                                                       <div class="panel-heading">
                                                         <h4 class="panel-title">
-                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#expre1" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#japo" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
                                                         </h4>
                                                       </div>
-                                                      <div id="expre1" class="panel-collapse collapse">
+                                                      <div id="japo" class="panel-collapse collapse">
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
