@@ -343,7 +343,43 @@
                                         <img src="images/service-icon-1.png" alt="">
                                     </div>
                                     <h4>Química General</h4>
-                                    <p></p>
+                                    
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#expre1" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="expre1" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">Clases de REFUERZO de Química General, para los estudiantes  Universitarios que tengan dificultades o dudas sobre los diferentes ejercicios aplicados en esta materia y solventarlas para una optimización en sus conocimientos en la materia, usando métodos prácticos y evaluativos.</p>
+                                                                <br>
+                                                                <h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Cada alumno lleve su calculadora cientifica</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Solo estudiantes de primer año en las diferentes carreras que apliquen esta materia</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>20 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                     <div class="caption-button" data-animation="animated fadeInUp">
                                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL1pGRrLpQDzCThJgoKfHWUYo-0jcPlwXhc1NIBRifpX6K6A/closedform" class="button" target="_blank">Inscribir</a>
                                     </div>
@@ -616,7 +652,52 @@
                                             <img src="images/service-icon-3.png" alt="">
                                         </div>
                                         <h4>Inglés intermedio</h4>
-                                        <p></p>
+                                        
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#expre1" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="expre1" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">El siguiente curso comprende de:
+                                                                    <ul align="left">
+                                                                    <li>Escritura</li>
+                                                                    <li>Pronunciación</li>
+                                                                    <li>Gramatica</li>
+                                                                    <li>Vocabulario</li>
+                                                                    <li>Japonés Actual</li>
+                                                                </ul>
+                                                                </p>
+                                                                <br>
+                                                                <h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Tener conocimientos básicos de inglés</li>
+                                                                    <li>Se realizará una prueba de admisión</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Desde 13 años de edad en adelante</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>25 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeImzNqAbC5Dq8DpENn_yBs14xfsqmaXb4djOr5CwmuUATMzQ/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
@@ -628,7 +709,49 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Japonés básico</h4>
-                                        <p></p>
+                                        
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#expre1" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="expre1" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left"></p>
+                                                                <br>
+                                                                <h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Estar dispuesto a aprender</li>
+                                                                    <li>Tener creatividad</li>
+                                                                    <li>Tener iniciativa</li>
+                                                                    <li>Tener una constante practica</li>
+                                                                    <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
+                                                                    <li>Reflexiona sobre cada temática que se implemente</li>
+                                                                    <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Desde 15 años de edad en adelante</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>25 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="https://docs.google.com/forms/d/e/1FAIpQLScSkGHUlYbNwYTC4Qrlk40HphCA0-VfQMIX7VzfRXUhjunWww/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
