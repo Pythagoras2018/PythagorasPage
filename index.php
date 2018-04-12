@@ -312,22 +312,16 @@
                                                                 procedimientos y recursos idóneos para hacerlo.
                                                                 </p>
                                                                 <br>
-                                                                <!--<h2>Condiciones</h2>
+                                                                <h2>Condiciones</h2>
                                                                 <ul align="left">
-                                                                    <li>Estar dispuesto a aprender</li>
-                                                                    <li>Tener creatividad</li>
-                                                                    <li>Tener iniciativa</li>
-                                                                    <li>Tener una constante practica</li>
-                                                                    <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
-                                                                    <li>Reflexiona sobre cada temática que se implemente</li>
-                                                                    <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                                    <li>Ser estudiante de Segundo Año de Bachillerato</li>
                                                                 </ul>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
                                                                 <p>Desde 18 años hasta 29 años de edad.</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
-                                                                <p>20 Cupos</p>
+                                                                <p>40 Cupos</p>
                                                                 <br>-->
                                                             </section>
                                                         </center>
@@ -381,8 +375,8 @@
                                                                 <h2>Objetivo:</h2>
                                                                 <p align="left">Solventar vacíos del aprendizaje en la asignatura de matemática en alumnos de segundo ciclo.</p>
                                                                 <br>
-                                                                <h2>Restricciones</h2>
-                                                                <p>el consenso de todas las restricciones</p>
+                                                                <h2>El consenso de todas las restricciones</h2>
+                                                                <p></p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
                                                                 <p>de 10 años a 13 años de edad</p>
@@ -435,8 +429,8 @@
                                                                 <h2>Objetivo:</h2>
                                                                 <p align="left">Conocer de manera formal las operaciones básicas, potenciación y radicación con los números N, Z y Q decimales.</p>
                                                                 <br>
-                                                                <h2>Restricciones</h2>
-                                                                <p>el consenso de todas las restricciones</p>
+                                                                <h2>El consenso de todas las restricciones</h2>
+                                                                <p></p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
                                                                 <p>14 años en adelante</p>
@@ -486,7 +480,49 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Solfeo Básico</h4>
-                                        <p></p>
+                                        
+
+                                        <!--<div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#expre1" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="expre1" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left"></p>
+                                                                <br>
+                                                                <h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Estar dispuesto a aprender</li>
+                                                                    <li>Tener creatividad</li>
+                                                                    <li>Tener iniciativa</li>
+                                                                    <li>Tener una constante practica</li>
+                                                                    <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
+                                                                    <li>Reflexiona sobre cada temática que se implemente</li>
+                                                                    <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Desde 15 años en adelante</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>20 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>-->
+
+
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSf5P27mbVFMbzk2nVvcJUGjMA0YkHavwCbtyTeKxkUH4ygHkw/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
@@ -498,7 +534,44 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Dibujo Anatómico</h4>
-                                        <p></p>
+                                        
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#paes" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="paes" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">El curso gratuito de dibujo anatomico el cual comprendera los conocimientos basicos sobre anatomia artistica. Buscando asì una proporcion exacta de cuerpo humano
+                                                                </p>
+                                                                <br>
+                                                                <h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>No son necesarios conocimientos previos</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Desde 15 años de edad en adelante</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>20 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMZYI35HRimfchxiBQnAGhH0y79iFtgbjrEhxYwJ0tKu579g/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
@@ -1023,16 +1096,16 @@
 
 
     <!-- Socios o Patrocinadores -->
-    <section class="section-padding overlay client-area overlay" id="client-page">
+    <section class="section-padding overlay client-area overlay" id="client-page" style="background: black;">
         <div class="row">
             <center><h3><b>PATROCINADORES</b></h3></center>
         </div>
-        <div class="container" style="background: black;">
+        <div class="container">
             <br><br><br><div class="row text-center">
                 <div class="col-xs-12">
                     <div class="clients">
                         <div class="item">
-                            <img src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique" style="width:40%;">
+                            <img src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique">
                         </div>
                     </div>
                 </div>
