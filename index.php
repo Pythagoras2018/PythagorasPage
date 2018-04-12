@@ -93,7 +93,7 @@
             <div class="row v-center">
                 <div class="col-xs-12 header-text"><center>
                     <h2>Bienvenidos</h2>
-                   <br><h4><i>"Somos el conjunto e escuelas de diferentes especialidades como matemática, física, inglés, lecto-escritura y abierta a otras áreas que contribuyen gratuitamente a la superación autónoma educativa y al desarrollo personal de todo niño, niña, joven y adulto; independientemente de sus capacidades físicas y cognitivas siendo inclusiva en esencia, beneficiando a la población que desee ser parte de nuestro cuerpo estudiantil"</i></h4>
+                   <br><h4><i>"Somos el conjunto de escuelas de diferentes especialidades como matemática, física, inglés, lecto-escritura y abierta a otras áreas que contribuyen gratuitamente a la superación autónoma educativa y al desarrollo personal de todo niño, niña, joven y adulto; independientemente de sus capacidades físicas y cognitivas siendo inclusiva en esencia, beneficiando a la población que desee ser parte de nuestro cuerpo estudiantil"</i></h4>
                 </center></div>
             </div>
         </div>
@@ -279,7 +279,7 @@
                                     <div class="box-icon">
                                         <img src="images/service-icon-3.png" alt="">
                                     </div>
-                                    <h4>Matemática para PAES</h4>
+                                    <h4>Matemática para PAES</h4><!-- YA ESTA -->
                                     
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -509,7 +509,7 @@
                                         <h4>Solfeo Básico</h4>
                                         
 
-                                        <!--<div class="angle-bg" style="padding-top:1.5%;" >
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
                                             <div class="container" style="width: 100%;">
                                                 <div class="panel-group" id="accordion1" style="text-decoration: none;">
                                                     <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
@@ -522,21 +522,20 @@
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
-                                                                <p align="left"></p>
+                                                                <p align="left">El curso de solfeo básico tiene como finalidad enseñar la base fundamental de la escritura musical para cualquier instrumento musical y al mismo tiempo capacitar a nuestros estudiantes a interpretar y escribir melodias utilizando la técnica de lectoescritura musical universal, el solfeo.</p>
                                                                 <br>
                                                                 <h2>Condiciones</h2>
                                                                 <ul align="left">
                                                                     <li>Estar dispuesto a aprender</li>
-                                                                    <li>Tener creatividad</li>
-                                                                    <li>Tener iniciativa</li>
-                                                                    <li>Tener una constante practica</li>
+                                                                    <li>Tener paciencia</li>
+                                                                    <li>Tener una constante práctica y dedicación</li>
+                                                                    <li>Tener disposicion de realizar los ejercicios necesarios para un mejor aprendizaje</li>
                                                                     <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
-                                                                    <li>Reflexiona sobre cada temática que se implemente</li>
-                                                                    <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                                    <li>Llevar una regla, lápiz, borrador y cuaderno propio para un mejor seguimiento.</li>
                                                                 </ul>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
-                                                                <p>Desde 15 años en adelante</p>
+                                                                <p>Desde 16 años de edad en adelante</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
                                                                 <p>20 Cupos</p>
@@ -547,7 +546,7 @@
                                                     </div>
                                                 </div> 
                                             </div>
-                                        </div>-->
+                                        </div>
 
 
                                         <div class="caption-button" data-animation="animated fadeInUp">
