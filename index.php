@@ -322,7 +322,7 @@
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
                                                                 <p>40 Cupos</p>
-                                                                <br>-->
+                                                                <br>
                                                             </section>
                                                         </center>
                                                       </div>
@@ -379,7 +379,7 @@
                                                                 <p></p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
-                                                                <p>de 10 años a 13 años de edad</p>
+                                                                <p>Desde 10 años a 13 años de edad</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
                                                                 <p>25 Cupos</p>
@@ -433,7 +433,7 @@
                                                                 <p></p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
-                                                                <p>14 años en adelante</p>
+                                                                <p>14 años de edad en adelante</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
                                                                 <p>25 Cupos</p>
