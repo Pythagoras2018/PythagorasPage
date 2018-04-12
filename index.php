@@ -667,14 +667,7 @@
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
-                                                                <p align="left">El siguiente curso comprende de:
-                                                                    <ul align="left">
-                                                                    <li>Escritura</li>
-                                                                    <li>Pronunciación</li>
-                                                                    <li>Gramatica</li>
-                                                                    <li>Vocabulario</li>
-                                                                    <li>Japonés Actual</li>
-                                                                </ul>
+                                                                <p align="left">
                                                                 </p>
                                                                 <br>
                                                                 <h2>Condiciones</h2>
@@ -724,17 +717,20 @@
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
-                                                                <p align="left"></p>
+                                                                <p align="left">El siguiente curso comprende de:
+                                                                    <ul align="left">
+                                                                    <li>Escritura</li>
+                                                                    <li>Pronunciación</li>
+                                                                    <li>Gramatica</li>
+                                                                    <li>Vocabulario</li>
+                                                                    <li>Japonés Actual</li>
+                                                                </ul>
+                                                                </p>
                                                                 <br>
                                                                 <h2>Condiciones</h2>
                                                                 <ul align="left">
-                                                                    <li>Estar dispuesto a aprender</li>
-                                                                    <li>Tener creatividad</li>
-                                                                    <li>Tener iniciativa</li>
-                                                                    <li>Tener una constante practica</li>
-                                                                    <li>Estar dispuesto a modificar los aspectos negativos y potencializar los positivos</li>
-                                                                    <li>Reflexiona sobre cada temática que se implemente</li>
-                                                                    <li>Llevar cuaderno, memoria USB u otro material que le permita posteriormente repasar lo aprendido.</li>
+                                                                    <li>Conocimientos previos de inglès  (no indispensable)</li>
+                                                                    <li>Disposicion de aprender hiragana.</li>
                                                                 </ul>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
