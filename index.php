@@ -362,7 +362,7 @@
                                                                 <br>
                                                                 <h2>Condiciones</h2>
                                                                 <ul align="left">
-                                                                    <li>Cada alumno lleve su calculadora cientifica</li>
+                                                                    <li>Cada alumno debe llevar su calculadora cientifica</li>
                                                                 </ul>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
@@ -578,10 +578,10 @@
                                                     <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
                                                       <div class="panel-heading">
                                                         <h4 class="panel-title">
-                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#paes" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#dib" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
                                                         </h4>
                                                       </div>
-                                                      <div id="paes" class="panel-collapse collapse">
+                                                      <div id="dib" class="panel-collapse collapse">
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
