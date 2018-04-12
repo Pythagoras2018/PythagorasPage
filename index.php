@@ -317,11 +317,8 @@
                                                                     <li>Ser estudiante de Segundo Año de Bachillerato</li>
                                                                 </ul>
                                                                 <br>
-                                                                <h2>Rango de Edad</h2>
-                                                                <p>Desde 18 años hasta 29 años de edad.</p>
-                                                                <br>
                                                                 <h2>Limite de cupos</h2>
-                                                                <p>40 Cupos</p>
+                                                                <p>30 Cupos</p>
                                                                 <br>
                                                             </section>
                                                         </center>
@@ -342,7 +339,7 @@
                                     <div class="box-icon">
                                         <img src="images/service-icon-1.png" alt="">
                                     </div>
-                                    <h4>Química General</h4>
+                                    <h4>Química General</h4><!-- YA ESTA -->
                                     
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -390,7 +387,7 @@
                                     <div class="box-icon">
                                         <img src="images/service-icon-3.png" alt="">
                                     </div>
-                                    <h4>Matematica para Secundaria</h4>
+                                    <h4>Matematica para Secundaria</h4><!-- YA ESTA -->
                                     
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -410,9 +407,6 @@
                                                                 <br>
                                                                 <h2>Objetivo:</h2>
                                                                 <p align="left">Solventar vacíos del aprendizaje en la asignatura de matemática en alumnos de segundo ciclo.</p>
-                                                                <br>
-                                                                <h2>El consenso de todas las restricciones</h2>
-                                                                <p></p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
                                                                 <p>Desde 10 años a 13 años de edad</p>
@@ -442,7 +436,7 @@
                                     <div class="box-icon">
                                         <img src="images/service-icon-1.png" alt="">
                                     </div>
-                                    <h4>Aritmetica</h4>
+                                    <h4>Aritmetica</h4><!-- YA ESTA -->
                                     
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -464,9 +458,6 @@
                                                                 <br>
                                                                 <h2>Objetivo:</h2>
                                                                 <p align="left">Conocer de manera formal las operaciones básicas, potenciación y radicación con los números N, Z y Q decimales.</p>
-                                                                <br>
-                                                                <h2>El consenso de todas las restricciones</h2>
-                                                                <p></p>
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
                                                                 <p>14 años de edad en adelante</p>
@@ -569,7 +560,7 @@
                                         <div class="box-icon">
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
-                                        <h4>Dibujo Anatómico</h4>
+                                        <h4>Dibujo Anatómico</h4><!-- YA ESTA -->
                                         
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -651,7 +642,7 @@
                                         <div class="box-icon">
                                             <img src="images/service-icon-3.png" alt="">
                                         </div>
-                                        <h4>Inglés intermedio</h4>
+                                        <h4>Inglés intermedio</h4><!-- YA ESTA -->
                                         
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -668,6 +659,7 @@
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
                                                                 <p align="left">
+                                                                El siguiente curso tiene como finalidad aprender y reforzar los conocimientos previamente adquiridos, con una mejor fluidez y comprensión aplicando los conocimientos previos en un ambiente dinámico.
                                                                 </p>
                                                                 <br>
                                                                 <h2>Condiciones</h2>
@@ -701,7 +693,7 @@
                                         <div class="box-icon">
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
-                                        <h4>Japonés básico</h4>
+                                        <h4>Japonés básico</h4><!-- YA ESTA -->
                                         
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -812,7 +804,7 @@
                                         <div class="box-icon">
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
-                                        <h4>Técnicas de Exposición Oral - La importancia del Lenguaje Corporal</h4>
+                                        <h4>Técnicas de Exposición Oral - La importancia del Lenguaje Corporal</h4><!-- YA ESTA -->
                                         
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
