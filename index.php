@@ -638,24 +638,28 @@
                                                     <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
                                                       <div class="panel-heading">
                                                         <h4 class="panel-title">
-                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#paes" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#ingbasico" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
                                                         </h4>
                                                       </div>
-                                                      <div id="paes" class="panel-collapse collapse">
+                                                      <div id="ingbasico" class="panel-collapse collapse">
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
                                                                 <p align="left">Este curso esta orientado a todas aquellas personas que siempre han querido aprender lo que es el idioma el ingles, y consistirá en clases interactivas, que generaran un entorno perfecto para que los estudiantes se desarrollen con plenitud, en ellas se dará a conocer vocabulario, pronunciación y gramática. Todo esto enfocado a un conocimiento básico de la materia e incentivando a los alumnos lo hermoso de este idioma y sus utilidades.
                                                                 </p>
                                                                 <br>
-                                                                <!--<h2>Condiciones</h2>
+                                                                <h2>Condiciones</h2>
                                                                 <ul align="left">
-                                                                    <li>Ser estudiante de Segundo Año de Bachillerato</li>
+                                                                    <li>Debe tener muchas ganas de aprender</li>
+                                                                    <li>Deben llevar su cuaderno y lapiceros</li>
                                                                 </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Desde 10 años de edad en adelante</p>
                                                                 <br>
                                                                 <h2>Limite de cupos</h2>
                                                                 <p>30 Cupos</p>
-                                                                <br>-->
+                                                                <br>
                                                             </section>
                                                         </center>
                                                       </div>
@@ -805,7 +809,50 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Lectoescritura</h4>
-                                        <p></p>
+                                        
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#lecto" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="lecto" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">
+                                                                La lectoescritura se enfoca en desarrollar las áreas de la lectura y escritura de la siguiente manera: potenciando la motricidad fina y gruesa de una manera lúdica para que los niños sean capaces de jugar con las letras y aprender identificar y hacer buena pronunciación de las letras, sílabas y palabras llegando a desarrollar el habla y con ello la lectura y a su vez la escritura correcta
+                                                                </p>
+                                                                <br>
+                                                                <h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Cada infante debe llevar un cuaderno rayado para las clases y uno liso para las tareas.</li>
+                                                                    <li>Cada infante debe llevar su caja de crayolas.</li>
+                                                                    <li>Cada infante debe de llevar un libro (silabario de preferencia o un libro de lectura).</li>
+                                                                    <li>Es indispensable llevar una merienda.</li>
+                                                                    <li>Cada infante debe de llevar su propia botella con agua.</li>
+                                                                    <li>Cada infante debe de llevar una almohada.</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Rango de Edad</h2>
+                                                                <p>Desde 5 años a 8 años de edad</p>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>15 Cupos</p>
+                                                                <br>
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="https://docs.google.com/forms/d/e/1FAIpQLScAxvP0v0J3OS31u5qnctFgTXwmltPZnOIsvC9MWFcu4RhVZA/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
@@ -1202,7 +1249,7 @@
                     <div class="panel-group" id="accordion">
                         <div class="panel">
                             <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true">¿Existe algun insentivo al completar e curso?</a>
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true">¿Existe algun insentivo al completar el curso?</a>
                             </h4>
                             <div id="collapse1" class="panel-collapse collapse in">
                                 <p>Se les entregará un diploma que demuestra que a completado el curso. Pero solo si mantiene el numero maximo de asistencias y si aprobo correctamente las evaluaciones. Caso contrario no podra adquirirlo aunque asista a clases.</p>
@@ -1242,7 +1289,7 @@
     <!-- Socios o Patrocinadores -->
     <section class="section-padding overlay client-area overlay" id="client-page" style="background: black;">
         <div class="row">
-            <center><h3><b>PATROCINADORES</b></h3></center>
+            <center><h2><b>PATROCINADORES</b></h2></center>
         </div>
         <div class="container">
             <br><br><br><div class="row text-center">
