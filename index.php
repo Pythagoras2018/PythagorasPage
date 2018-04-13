@@ -1399,9 +1399,10 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xs-12 col-md-4">
-                        <address class="side-icon-boxes">
-                            <!--<div class="side-icon-box">
+                    <div class="col-xs-12 col-md-5">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3879.8415415915642!2d-88.17584465500892!3d13.483860006742418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7b2a7b8cc71105%3A0x752512f15f1a1777!2sCentro+Escolar+Pablo+J.+Aguirre!5e0!3m2!1ses-419!2ssv!4v1523593791105" width="450" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+                         <!--<address class="side-icon-boxes">
+                           <div class="side-icon-box">
                                 <div class="side-icon">
                                     <img src="images/location-arrow.png" alt="">
                                 </div>
@@ -1415,7 +1416,7 @@
                                     <a href="callto:8801812726495">+8801812726495</a><br/>
                                     <a href="callto:8801687420471">+8801687420471</a>
                                 </p>
-                            </div>-->
+                            </div>
                             <br><div class="side-icon-box">
                                 <div class="side-icon">
                                     <img src="images/mail-arrow.png" alt="">
@@ -1425,9 +1426,9 @@
                                     <a href="mailto:youremail@example.com">estigmasm@yahoo.com</a>
                                 </p>
                             </div>
-                        </address>
+                        </address>-->
                     </div>
-                    <div class="col-xs-12 col-md-8">
+                    <div class="col-xs-12 col-md-7">
                         <form action="process.php" id="contact-form" method="post" class="contact-form">
                             <div class="form-double">
                                 <h5>Nombre (Obligatorios)</h5>
