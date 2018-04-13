@@ -630,7 +630,41 @@
                                             <img src="images/service-icon-2.png" alt="">
                                         </div>
                                         <h4>Inglés básico</h4>
-                                        <p></p>
+                                        
+
+                                        <div class="angle-bg" style="padding-top:1.5%;" >
+                                            <div class="container" style="width: 100%;">
+                                                <div class="panel-group" id="accordion1" style="text-decoration: none;">
+                                                    <div class="" style="background-color:#008FC5; color:#ffffff; border-radius: 25px;">
+                                                      <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                          <a data-toggle="collapse" data-parent="#expre1" href="#collapse1" data-target="#paes" style="font-size:13px; text-decoration: none;" ><center>Antes de inscribirse, presione aqui para leer los terminos y condiciones</center></a>
+                                                        </h4>
+                                                      </div>
+                                                      <div id="paes" class="panel-collapse collapse">
+                                                        <center>
+                                                            <section style="background-color:#F0FFFE; color:black;">
+                                                                <h2>Descripción</h2>
+                                                                <p align="left">Este curso esta orientado a todas aquellas personas que siempre han querido aprender lo que es el idioma el ingles, y consistirá en clases interactivas, que generaran un entorno perfecto para que los estudiantes se desarrollen con plenitud, en ellas se dará a conocer vocabulario, pronunciación y gramática. Todo esto enfocado a un conocimiento básico de la materia e incentivando a los alumnos lo hermoso de este idioma y sus utilidades.
+                                                                </p>
+                                                                <br>
+                                                                <!--<h2>Condiciones</h2>
+                                                                <ul align="left">
+                                                                    <li>Ser estudiante de Segundo Año de Bachillerato</li>
+                                                                </ul>
+                                                                <br>
+                                                                <h2>Limite de cupos</h2>
+                                                                <p>30 Cupos</p>
+                                                                <br>-->
+                                                            </section>
+                                                        </center>
+                                                      </div>
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+
+
                                         <div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSer1AMcx2Bf-NoygWBKZtAphSq1dCRsNFjFfFxO2dO60OBJQw/closedform" class="button" target="_blank">Inscribir</a>
                                         </div>
@@ -1153,7 +1187,7 @@
 
 
     <!-- Preguntas Frecuentes -->
-    <!--<section class="angle-bg sky-bg section-padding" id="faq-page">
+    <section class="angle-bg sky-bg section-padding" id="faq-page">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
@@ -1168,13 +1202,13 @@
                     <div class="panel-group" id="accordion">
                         <div class="panel">
                             <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true">¿?</a>
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true">¿Existe algun insentivo al completar e curso?</a>
                             </h4>
                             <div id="collapse1" class="panel-collapse collapse in">
-                                <p>Descripción</p>
+                                <p>Se les entregará un diploma que demuestra que a completado el curso. Pero solo si mantiene el numero maximo de asistencias y si aprobo correctamente las evaluaciones. Caso contrario no podra adquirirlo aunque asista a clases.</p>
                             </div>
                         </div>
-                        <div class="panel">
+                        <!--<div class="panel">
                             <h4 class="panel-title">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">¿?</a>
                             </h4>
@@ -1197,7 +1231,7 @@
                             <div id="collapse4" class="panel-collapse collapse">
                                 <p>Descripción</p>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
@@ -1369,8 +1403,8 @@
                     <div class="col-xs-12 col-sm-6 pull-right">
                         <ul class="social-menu text-right x-left">
                             <li><a href="https://www.facebook.com/pythagorasv18/" target="_blank"><i class="ti-facebook"></i></a></li>
-                            <!--<li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
+                            <li><a href="https://www.instagram.com/pythagorasv18/" target="_blank"><i class="ti-twitter"></i></a></li>
+                            <!--<li><a href="#"><i class="ti-google"></i></a></li>
                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
                             <li><a href="#"><i class="ti-github"></i></a></li>-->
                         </ul>
