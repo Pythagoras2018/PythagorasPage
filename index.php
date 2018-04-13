@@ -752,12 +752,12 @@
                                                                 </ul>
                                                                 </p>
                                                                 <br>
-                                                                <h2>Condiciones</h2>
+                                                                <!--<h2>Condiciones</h2>
                                                                 <ul align="left">
                                                                     <li>Conocimientos previos de inglès  (no indispensable)</li>
                                                                     <li>Disposicion de aprender hiragana.</li>
                                                                 </ul>
-                                                                <br>
+                                                                <br>-->
                                                                 <h2>Rango de Edad</h2>
                                                                 <p>Desde 15 años de edad en adelante</p>
                                                                 <br>
@@ -1240,6 +1240,10 @@
 
 
     <!-- Socios o Patrocinadores -->
+    <section>
+        
+    </section>
+
     <section class="section-padding overlay client-area overlay" id="client-page" style="background: black;">
         <div class="row">
             <center><h3><b>PATROCINADORES</b></h3></center>
