@@ -1288,7 +1288,7 @@
 
     <!-- Socios o Patrocinadores -->
     <section class="section-padding overlay client-area overlay" id="client-page" style="background: black;">
-        <div class="row">
+        <div>
             <center><h2><b>PATROCINADORES</b></h2></center>
         </div>
         <div class="container">
