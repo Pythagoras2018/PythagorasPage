@@ -1240,10 +1240,6 @@
 
 
     <!-- Socios o Patrocinadores -->
-    <section>
-        
-    </section>
-
     <section class="section-padding overlay client-area overlay" id="client-page" style="background: black;">
         <div class="row">
             <center><h3><b>PATROCINADORES</b></h3></center>
@@ -1251,9 +1247,9 @@
         <div class="container">
             <br><br><br><div class="row text-center">
                 <div class="col-xs-12">
-                    <div class="clients">
+                    <div class="client">
                         <div class="item">
-                            <img src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique">
+                            <img src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique" width="35%">
                         </div>
                     </div>
                 </div>
