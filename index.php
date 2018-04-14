@@ -1451,7 +1451,7 @@
                     <div class="col-xs-12 col-sm-6 pull-right">
                         <ul class="social-menu text-right x-left">
                             <li><a href="https://www.facebook.com/pythagorasv18/" target="_blank"><i class="ti-facebook"></i></a></li>
-                            <li><a href="https://www.instagram.com/pythagorasv18/" target="_blank"><i class="ti-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/pythagorasv18/" target="_blank"><i class="ti-instagram"></i></a></li>
                             <!--<li><a href="#"><i class="ti-google"></i></a></li>
                             <li><a href="#"><i class="ti-linkedin"></i></a></li>
                             <li><a href="#"><i class="ti-github"></i></a></li>-->
