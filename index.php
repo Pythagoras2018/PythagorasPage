@@ -167,7 +167,7 @@
                                             <h2>Misión</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p style="font-size:15px;">Somos una organización sin fines de lucro que promueve la
+                                            <p style="font-size:18px;">Somos una organización sin fines de lucro que promueve la
                                                formación educativa de distintas áreas de conocimiento
                                                contribuyendo con el desarrollo de capacidades y la
                                                superación autónoma educativa de nuestra comunidad
