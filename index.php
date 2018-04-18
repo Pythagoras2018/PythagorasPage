@@ -1296,7 +1296,7 @@
                 <div class="col-xs-12">
                     <div class="client">
                         <div class="item">
-                            <img style="background: white; border-radius: 25px;" src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique" width="60%">
+                            <img style="background: white; border-radius: 25px;" src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique" width="40%">
                         </div>
                     </div>
                 </div>
