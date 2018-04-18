@@ -1165,7 +1165,7 @@
 
 
     <!-- Testimonios -->
-    <section class="testimonial-area section-padding gray-bg overlay" id="testimonial-area">
+    <!--<section class="testimonial-area section-padding gray-bg overlay" id="testimonial-area">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
@@ -1225,12 +1225,12 @@
                             </div>
                             <h3>AR Rahman</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>-->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
 
     <!-- Preguntas Frecuentes -->
@@ -1296,7 +1296,7 @@
                 <div class="col-xs-12">
                     <div class="client">
                         <div class="item">
-                            <img src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique" width="45%">
+                            <img style="background: white;" src="images/patrocinadores/rotarac.png" alt="Rotarac Chaparrastique" width="60px">
                         </div>
                     </div>
                 </div>
