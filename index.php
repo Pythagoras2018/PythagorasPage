@@ -1390,14 +1390,14 @@
         <div class="absolute footer-bg"></div>
         <div class="footer-top">
             <div class="container">
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                         <div class="page-title">
                             <h2>ENVIAR MENSAJE</h2>
                             <h4>Escribenos. Tu palabra es lo más importante para nosotros.</h4>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="row">
                     <div class="col-xs-12 col-md-5">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3879.8415415915642!2d-88.17584465500892!3d13.483860006742418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f7b2a7b8cc71105%3A0x752512f15f1a1777!2sCentro+Escolar+Pablo+J.+Aguirre!5e0!3m2!1ses-419!2ssv!4v1523593791105" width="350" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -1428,7 +1428,7 @@
                             </div>
                         </address>-->
                     </div>
-                    <div class="col-xs-12 col-md-7">
+                    <!--<div class="col-xs-12 col-md-7">
                         <form action="process.php" id="contact-form" method="post" class="contact-form">
                             <div class="form-double">
                                 <h5>Nombre (Obligatorios)</h5>
@@ -1441,7 +1441,7 @@
                             <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Escriba su mensaje" required="required"></textarea>
                             <button type="sibmit" class="button">Enviar</button>
                         </form>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>
