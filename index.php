@@ -198,7 +198,7 @@
                                                para todas las personas, logrando un impacto positivo en
                                                la educación a nivel municipal y posteriormente
                                                departamental.</p>
-                                        </div>
+                                        </div><br>
                                         <!--<div class="caption-button" data-animation="animated fadeInUp">
                                             <a href="#" class="button">Read more</a>
                                         </div>-->
