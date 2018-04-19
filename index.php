@@ -158,7 +158,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <div id="caption_slide" class="carousel slide caption-slider" data-ride="carousel" style="margin-top: -10%;">
+                    <div id="caption_slide" class="carousel slide caption-slider"  style="margin-top: -10%;"><!--data-ride="carousel"-->
                         <br><br><br><br><br><br><br><br><br><div class="carousel-inner" role="listbox">
                             <div class="item active row">
                                 <div class="v-center">
