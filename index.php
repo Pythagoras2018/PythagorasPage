@@ -192,7 +192,7 @@
                                             <h2>Visión</h2>
                                         </div>
                                         <div class="caption-desc" data-animation="animated fadeInUp">
-                                            <p>Ser una organización reconocida a nivel municipal por su
+                                            <p style="font-size:18px;">Ser una organización reconocida a nivel municipal por su
                                                perseverancia en el trabajo social y comunitario,
                                                aspirando ser una referencia de concientización educativa
                                                para todas las personas, logrando un impacto positivo en
