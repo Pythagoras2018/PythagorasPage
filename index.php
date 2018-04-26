@@ -436,7 +436,7 @@
                                     <div class="box-icon">
                                         <img src="images/service-icon-1.png" alt="">
                                     </div>
-                                    <h4>Aritmetica</h4><!-- YA ESTA -->
+                                    <h4>Refuerzo de Algebra para Octavo Grado</h4><!-- YA ESTA -->
                                     
 
                                         <div class="angle-bg" style="padding-top:1.5%;" >
@@ -452,12 +452,12 @@
                                                         <center>
                                                             <section style="background-color:#F0FFFE; color:black;">
                                                                 <h2>Descripción</h2>
-                                                                <p align="left">La asignatura consiste en una introducción a los números naturales, haciendo una valoración de los axiomas de piano, sus propiedades y consideraciones dictadas de su estudio, posteriormente
+                                                                <!--<p align="left">La asignatura consiste en una introducción a los números naturales, haciendo una valoración de los axiomas de piano, sus propiedades y consideraciones dictadas de su estudio, posteriormente
                                                                 veremos la divisibilidad según criterio en enteros, trabajaremos con números racionales y
                                                                 potenciaciones en números reales y haremos énfasis en la solución de problemas.</p>
                                                                 <br>
                                                                 <h2>Objetivo:</h2>
-                                                                <p align="left">Conocer de manera formal las operaciones básicas, potenciación y radicación con los números N, Z y Q decimales.</p>
+                                                                <p align="left">Conocer de manera formal las operaciones básicas, potenciación y radicación con los números N, Z y Q decimales.</p>-->
                                                                 <br>
                                                                 <h2>Rango de Edad</h2>
                                                                 <p>14 años de edad en adelante</p>
